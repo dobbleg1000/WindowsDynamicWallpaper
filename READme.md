@@ -6,13 +6,16 @@ Allow windows to use wallpapers from https://www.dynamicwallpaper.club/
 - powershell >5
 - At least 1 folder containing image files named like "\*- Night\*", "\*- Day\*", "\*- Sunrise\*","\*- Sunset\*"
 
-	-Example 1:
-		Island - Day.png  
+	- Example 1: 
+    	```
+		Island - Day.png
 		Island - Night.png  
 		Island - Sunrise.png  
 		Island - Sunset.png  
-	-Example 2:
-		Index - Day 01.png  
+        ```
+	- Example 2:
+    	```
+        Index - Day 01.png  
 		Index - Day 02.png  
 		Index - Day 03.png  
 		Index - Day 04.png  
@@ -42,7 +45,7 @@ Allow windows to use wallpapers from https://www.dynamicwallpaper.club/
 		Index - Sunset 03.png  
 		Index - Sunset 04.png  
 		Index - Sunset 05.png  
-
+		```
 #### Optional Prereqs
 - imageMagick(used to extract HEIC to PNG)
 - Bulk rename utility (helpful tool for renaming the extracted files)
