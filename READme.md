@@ -58,4 +58,5 @@ Then enter requested info. (Paths should be full paths to the folder c:\temp\dyn
 To create your own Dynamic Wallpaper  
 	1. Download a file from https://www.dynamicwallpaper.club/  
 	2. Place it in a new folder   
-	3. Run 	`Path\to\imagemagick\magick.exe convert '.\*.heic' DESIREDNAME.png` in your  new folder 
+	3. Run 	`Path\to\imagemagick\magick.exe convert '.\*.heic' DESIREDNAME.png` in your  new folder  
+	4. Rename the exported pngs to match the examples above
